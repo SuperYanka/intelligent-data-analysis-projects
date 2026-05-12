@@ -11,3 +11,23 @@ The work includes:
 * model comparison and testing.
 
 The experiments were performed on industrial process monitoring data related to low-temperature coke gas separation.
+
+## Dataset
+
+The dataset contains industrial process monitoring data related to low-temperature coke gas separation.
+
+### Input Features
+
+* Temperature
+* Valve opening percentage
+* Coke gas flow
+* Nitrogen flow
+
+### Target Variable
+
+* Ethylene fraction concentration
+
+The dataset was divided into:
+
+* training subset (`coke_gas_train.csv`)
+* testing subset (`coke_gas_test.csv`)
