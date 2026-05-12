@@ -31,3 +31,29 @@ The dataset was divided into:
 
 * training subset (`coke_gas_train.csv`)
 * testing subset (`coke_gas_test.csv`)
+
+## Methods
+
+The project includes several intelligent data analysis approaches implemented in MATLAB:
+
+### Fuzzy Clustering
+
+* Fuzzy C-Means (FCM)
+* Subtractive Clustering
+
+### Neural Networks
+
+* Feedforward neural networks
+* Levenberg-Marquardt training algorithm
+* Multiple hidden layer configurations
+
+### Neuro-Fuzzy Modeling
+
+* ANFIS (Adaptive Neuro-Fuzzy Inference System)
+* Sugeno FIS models
+* Grid Partition and Subtractive Clustering initialization
+
+### Fuzzy Inference Systems
+
+* Mamdani fuzzy systems
+* Rule-based decision making
